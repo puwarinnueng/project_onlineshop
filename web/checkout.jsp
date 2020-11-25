@@ -1,5 +1,4 @@
 
-
 <%@page import="java.util.List"%>
 <%@page import="java.util.Vector"%>
 <%@page import="model.QuantityTable"%>
@@ -58,11 +57,5 @@
         </table>
 
         <h4 class="text-center" style="margin-left:60px; margin-top: 20px"><%= "The total amount is $" + request.getAttribute("totalAmount")%></h4>
-    </div>
-    <hr>
-
-
-
-</div>
-</body>
+    </body>
 </html>

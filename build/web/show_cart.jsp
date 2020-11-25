@@ -1,5 +1,4 @@
 
-
 <%@page import="java.util.Iterator"%>
 <%@page import="model.CartTable"%>
 <%@page import="model.Cart"%>

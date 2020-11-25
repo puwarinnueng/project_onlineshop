@@ -1,7 +1,5 @@
 
-
 package controller;
-
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.List;
@@ -13,7 +11,6 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import model.Cart;
 import model.CartTable;
-//import static model.Cart_.id;
 import model.Quantity;
 import model.QuantityTable;
 

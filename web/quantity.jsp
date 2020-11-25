@@ -1,5 +1,4 @@
 
-
 <%@page import="java.util.List"%>
 <%@page import="model.QuantityTable"%>
 <%@page import="model.Quantity"%>
